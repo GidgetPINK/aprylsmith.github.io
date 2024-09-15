@@ -43,6 +43,11 @@ body {
     color: white;
     text-decoration: none;
   }
+
+.nav-links a:hover{
+    text-decoration: underline;
+    color: #bc8e02;
+  }
   
   .hamburger {
     display: none; /* Hide the hamburger by default on large screens */
